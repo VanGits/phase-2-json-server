@@ -8,4 +8,4 @@ build:
   cmd: npm ci && npm run build
 
 start:
-  cmd: npm start
+  cmd: yarn start
